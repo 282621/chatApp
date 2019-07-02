@@ -1,3 +1,30 @@
+## LIVE CODE -> https://upbeat-jones-98ae02.netlify.com/ (so far only the visual version need to download for all features)
+
+## chatApp
+A chat application that ultimately includes a login system and likes
+
+## Motivation
+
+
+## Build status
+This page is still in the building process.
+- no login system
+- there is no system of likes
+- no data stored on the server (messages are not saved)
+- setting the display of messages in the scrolled box (messages are generated outside the box)
+- add the possibility of using the keyboard (creating keyboard shortcuts)
+
+## Code style
+I didn't make a code review for this one, so there is a possibility for a little chaos in my code. //for now
+
+## Tech/framework used
+HTML, CSS, JS, React.js.
+
+## Download app => to run please use commands in terminal:
+-npm run build 
+-npm start
+-node src/server/index.js
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
