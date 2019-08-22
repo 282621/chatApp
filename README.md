@@ -13,6 +13,7 @@ This page is still in the building process.
 - no data stored on the server (messages are not saved)
 - setting the display of messages in the scrolled box (messages are generated outside the box)
 - add the possibility of using the keyboard (creating keyboard shortcuts)
+- make this application work in serverless system
 
 ## Code style
 I didn't make a code review for this one, so there is a possibility for a little chaos in my code. //for now
