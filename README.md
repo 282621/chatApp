@@ -19,7 +19,7 @@ This page is still in the building process.
 I didn't make a code review for this one, so there is a possibility for a little chaos in my code. //for now
 
 ## Tech/framework used
-HTML, CSS, JS, React.js.
+HTML, CSS, JS, React
 
 ## Download app => to run please use commands in terminal:
 -npm run build 
