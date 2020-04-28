@@ -16,7 +16,7 @@ This page is still in the building process.
 - make this application work in serverless system
 
 ## Code style
-I didn't make a code review for this one, so there is a possibility for a little chaos in my code. //for now
+I didn't make a code review for this one, so there is a possibility for a little chaos in my code. 
 
 ## Tech/framework used
 HTML, CSS, JS, React
